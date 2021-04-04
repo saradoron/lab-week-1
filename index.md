@@ -1,4 +1,4 @@
-<img src="./headshot.png" width = "200" height="350">
+<img src="./headshot.png" width = "200" height="300">
 
 # Sara Doron
 ## Computer Science Major
