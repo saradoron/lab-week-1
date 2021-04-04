@@ -49,4 +49,4 @@ some things i love to cook
 my todo list
 - [x] go grocery shopping
 - [ ] finish the week 1 lab
-- [ ] /(not due till wed) finish my math hw
+- [ ] \(not due till wed) finish my math hw
