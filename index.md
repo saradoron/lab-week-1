@@ -5,14 +5,18 @@
 ### 2nd year
 
 **taking 16 units**
+
 *taking 2 cse courses*
+
 ~~Torrey Pines High School~~
+
 _**GPA: 3.8**_
+
 ***UCSD***
 
 >I love the beach
 
-#some of the git commands I used today were 
+some of the git commands I used today were 
 ```
 git add
 git commit
