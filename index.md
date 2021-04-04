@@ -21,7 +21,7 @@ some of the git commands I used today were
 git add
 git commit
 git push
-'''
+```
 
 This is my repository for the week 1 lab [GitHub Repo](https://github.com/saradoron/lab-week-1)
 
